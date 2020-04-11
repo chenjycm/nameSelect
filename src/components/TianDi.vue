@@ -16,7 +16,7 @@
                 <div class="ganzhi">
                     <span>{{dateInfo.gzDay.substr(0,1)}}</span>
                     <span>{{dateInfo.gzDay.substr(1,2)}}</span>
-                    <div class="tag">天</div>
+                    <div class="tag">日</div>
                 </div>
                 <div class="ganzhi">
                     <span>{{dateInfo.gzMonth.substr(0,1)}}</span>

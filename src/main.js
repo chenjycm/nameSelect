@@ -7,7 +7,7 @@ import router from './router'
 // import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import store from './store'
-import {Input, Button, Select, Option, DatePicker} from 'element-ui'
+import {Input, Button, Select, Option, DatePicker, Pagination, Tag} from 'element-ui'
 
 Vue.config.productionTip = false
 
